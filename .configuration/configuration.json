@@ -1,0 +1,32 @@
+{
+  "seed": 760877276,
+  "commits": 500,
+  "branches": 2000,
+  "tags": 100,
+  "files": [
+    {
+      "size": 90000,
+      "count": 5
+    },
+    {
+      "size": 81920,
+      "count": 5
+    },
+    {
+      "size": 63600,
+      "count": 5
+    },
+    {
+      "size": 10240,
+      "count": 50
+    },
+    {
+      "size": 1024,
+      "count": 5500
+    },
+    {
+      "size": 40,
+      "count": 21750
+    }
+  ]
+}
